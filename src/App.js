@@ -12,6 +12,7 @@ function App() {
   
   function showCartHandler() {
     setCartIsShown(true);
+    var a = 1;
   }
 
   function hideCartHandler() {
